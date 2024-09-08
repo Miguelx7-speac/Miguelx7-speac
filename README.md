@@ -6,6 +6,7 @@ Miguel Lopes
 <li>Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos</li>
 
 <h1>Você pode entrar em contato comigo 📫</h1>
+
 00001138623313sp@al.educacao.sp.gov.br
 
 @00001138623313sp
