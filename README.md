@@ -1,7 +1,7 @@
 Boas vindas ao meu perfil 💙💙</br>
 Miguel Lopes
 
-<ul>Estou estudando na Alura</ul>
+<li>Estou estudando na Alura</li>
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 -->Você pode entrar em contato comigo 📫
